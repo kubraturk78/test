@@ -1,0 +1,1 @@
+# bu dosyada Html yapısı anlatılmaktadır
